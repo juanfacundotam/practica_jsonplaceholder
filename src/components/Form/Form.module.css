@@ -1,0 +1,22 @@
+.divForm {
+    background-color: rgb(36, 85, 91);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.pId {
+    margin-left: 29px;
+}
+
+.pEmail {
+    margin-left: 5px;
+}
+
+button {
+    margin: 15px;
+    margin-left: 60px;
+}

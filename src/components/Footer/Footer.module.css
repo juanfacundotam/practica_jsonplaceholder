@@ -1,0 +1,8 @@
+.divFooter {
+    background-color: rgba(0, 0, 0, 0.459);
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: auto;
+}
